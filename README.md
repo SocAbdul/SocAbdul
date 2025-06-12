@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm passionate about technology, data, and continu
 - Small apps or tools that solve real-life problems
 
 ## 📫 How to reach me...
-- ✉️ Email: abdullah.fasih.dev@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/abdullahfasih](https://www.linkedin.com/in/abdullahfasih)  
+- ✉️ Email: abdullahfasih786@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/abdullahfasih](https://www.linkedin.com/in/abdullah-fasih-data)  
 - 🌐 Portfolio (coming soon)
 
 ## 😄 Pronouns:
