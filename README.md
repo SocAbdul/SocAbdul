@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @SocAbdul
+# 👋 Hi there, I’m Abdullah Fasih(@SocAbdul)
 
 Welcome to my GitHub profile! I'm passionate about technology, data, and continuous learning. Here's a bit about me:
 
